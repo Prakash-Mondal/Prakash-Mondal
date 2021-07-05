@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **C and C++**
 
-- 🤝 I’m looking for help with **Coding with C**
+- 🤝 I’m looking for help with **Coding in C**
 
 - 💬 Ask me about **anything**
 
