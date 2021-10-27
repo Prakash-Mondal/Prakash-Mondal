@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="prakash-mondal" /> </p>
 
-- 🔭 I’m currently working on **C Programming**
+- 🔭 I’m currently working on **Python Programming**
 
-- 🌱 I’m currently learning **C and C++**
+- 🌱 I’m currently learning **C and C++ and Python**
 
-- 👯 I’m looking to collaborate on **C and C++**
+- 👯 I’m looking to collaborate on **C++ and Python**
 
-- 🤝 I’m looking for help with **Coding in C**
+- 🤝 I’m looking for help with **Coding in Python**
 
 - 💬 Ask me about **anything**
 
