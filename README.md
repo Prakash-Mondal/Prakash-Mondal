@@ -14,7 +14,7 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me... **by email**
-- 
+
 [![@prakashmondal8967's Holopin board](https://holopin.me/prakashmondal8967)](https://holopin.io/@prakashmondal8967)
 
 <h3 align="left">Connect with me:</h3>
