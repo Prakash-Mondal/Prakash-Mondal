@@ -3,24 +3,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="prakash-mondal" /> </p>
 
-- 🔭 I’m currently working on **Python Programming**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **C and C++ and Python**
+- 🌱 I’m currently learning **and C++ and Java**
 
-- 👯 I’m looking to collaborate on **C++ and Python**
+- 👯 I’m looking to collaborate on **Mern Stack Developer**
 
-- 🤝 I’m looking for help with **Coding in Python**
+- 🤝 I’m looking for help with **Coding in Java**
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me... **by email**
+- 📫 How to reach me... **prakashmondal8967@gmail.com**
 
 [![@prakashmondal8967's Holopin board](https://holopin.me/prakashmondal8967)](https://holopin.io/@prakashmondal8967)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/prakash mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prakash mondal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prakash8967" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prakash8967" height="30" width="40" /></a>
+<a href="[https://www.codechef.com/users/prakash8](https://www.linkedin.com/in/prakash-mondal-675601244/)" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg](https://pixabay.com/vectors/linked-in-logo-company-editorial-2668700/)" alt="prakash8" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prakash8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prakash8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
