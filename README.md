@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prakash Mondal</h1>
+h1 align="center">Hi 👋, I'm Prakash Mondal</h1>
 <h3 align="center">A passionate coder and developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="prakash-mondal" /> </p>
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prakash-mondal-675601244/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_174857" alt="Prakash's Linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prakash-mondal-675601244/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linkedin-2752135-2284952.png?f=avif&w=512" alt="Prakash's Linkedin" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prakash8" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="prakash8" height="30" width="40" /></a>
-<a href="https://leetcode.com/codeHunter01/" target="blank"><img align="center" src="https://iconscout.com/icon/leetcode-3521542" alt="prakash8" height="30" width="40" /></a>
+<a href="https://leetcode.com/codeHunter01/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=512" alt="prakash8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
