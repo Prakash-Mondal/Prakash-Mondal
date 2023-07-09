@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **and C++ and Java**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Mern Stack Developer**
+- 👯 I’m looking to collaborate on **Full Stack**
 
 - 🤝 I’m looking for help with **Coding in Java**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.codechef.com/users/prakash8](https://www.linkedin.com/in/prakash-mondal-675601244/)" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg](https://pixabay.com/vectors/linked-in-logo-company-editorial-2668700/)" alt="prakash8" height="30" width="40" /></a>
+<!-- <a href="[https://www.codechef.com/users/prakash8](https://www.linkedin.com/in/prakash-mondal-675601244/)" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg](https://pixabay.com/vectors/linked-in-logo-company-editorial-2668700/)" alt="prakash8" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/prakash8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prakash8" height="30" width="40" /></a>
 </p>
 
